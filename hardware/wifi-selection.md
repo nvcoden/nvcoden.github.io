@@ -2,11 +2,13 @@
 
 ✍🏻Written/Revised : August 2023
 
-|of contents|
----
+|Table of contents|
+|---|
 |[Disclaimer](#disclaimer)|
-|[General Ideas](#general-ideas) <ul><li>[Radio types](#1-radio-types)</li><li>[Supported Bands](#2-supported-bands)</li><li>[Channels](#3-channels)</li></ul>|
-|[Conclusion](#conclusion) <ul><li>[How to select a particular channel for your home setup?](#how-to-select-a-particular-channel-for-your-home-setup)</li></ul>|
+|[General Ideas](#general-ideas) <br> - [Radio types](#1-radio-types)<br> - [Supported Bands](#2-supported-bands)<br> - [Channels](#3-channels)|
+|[Conclusion](#conclusion)|
+|[How to select a particular channel for your home setup?](#how-to-select-a-particular-channel-for-your-home-setup)|
+
 
 ### Disclaimer
 
