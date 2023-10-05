@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+section {
+    width: 95vb;
+    margin-right: -20%;
+    float: right;
+    padding-bottom: 50px;
+}
